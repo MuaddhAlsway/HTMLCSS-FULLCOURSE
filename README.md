@@ -3,7 +3,7 @@
 > **Master the fundamentals of web development with this comprehensive HTML and CSS course**
 
 [![Course](https://img.shields.io/badge/Course-Watch%20Now-red?style=for-the-badge&logo=youtube)](https://youtu.be/G3e-cpL7ofc)
-[![Certificate](https://img.shields.io/badge/Certificate-Get%20Yours-green?style=for-the-badge)](https://courses.supersimple.dev/courses/html-css)
+[![Certificate](https://img.shields.io/badge/Certificate-Get%20Yours-green?style=for-the-badge)](https://www.freecodecamp.org/certification/fcc-f4785d39-02d1-445e-8a81-3dbd12ca13ea/responsive-web-design)
 [![Reference](https://img.shields.io/badge/Reference-PDF%20Guide-blue?style=for-the-badge)](https://supersimpledev.github.io/references/html-css-reference.pdf)
 
 ## 📋 Table of Contents
@@ -118,7 +118,7 @@
 | Resource | Description | Link |
 |----------|-------------|------|
 | 🎥 **Video Course** | Complete HTML & CSS tutorial | [Watch Now](https://youtu.be/G3e-cpL7ofc) |
-| 🏆 **Certificate** | Official completion certificate | [Get Certificate](https://courses.supersimple.dev/courses/html-css) |
+| 🏆 **Certificate** | Official completion certificate | [Get Certificate](https://www.freecodecamp.org/certification/fcc-f4785d39-02d1-445e-8a81-3dbd12ca13ea/responsive-web-design) |
 | 📖 **Reference Guide** | Comprehensive PDF reference | [Download PDF](https://supersimpledev.github.io/references/html-css-reference.pdf) |
 | 🔧 **Troubleshooting** | Common issues and solutions | [View Guide](troubleshooting.md) |
 
