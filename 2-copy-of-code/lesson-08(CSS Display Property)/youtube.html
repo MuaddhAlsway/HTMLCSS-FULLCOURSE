@@ -1,0 +1,65 @@
+<!-- Link of the project -->
+<!-- https://supersimple.dev/exercises/youtube/ -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>YouTube.com Clone</title>
+  <style>
+    .thumbnail { /* inline block -> block */
+      width: 300px;
+      display: block;
+    }
+
+    .search-bar {
+      font-size: 20px;
+      margin-left: 12px;
+    }
+
+    .video-tytle {
+      width: 300px;
+    }
+
+    /* block -> inline block */
+    /* .video-author,
+    .video-stats {
+      display: inline-block;
+    } */
+    
+  </style>
+</head>
+
+<body>
+
+  <input class="search-bar" type="text" placeholder="Search">
+
+  <img class="thumbnail" src="thumbnails/thumbnail-1.webp">
+
+  <p class="video-tytle">
+    Talking Tech and AI with Google CEO Sundar Pichai!
+  </p>
+
+  <p class="video-author">
+    Marques Brownlee
+  </p>
+
+  <p class="video-stats">
+    3.4M views &#183; 6 months ago
+  </p>
+</body>
+
+</html>
+
+<!-- 
+  Display property: 
+
+  3 types of elements: 
+    1. block element = takes up the entier line. Ex-> <p> 
+    2. inline-block element = only takes up as much spaces as needed. Ex-> image element, input element. 
+    3. inline element = appear within a line of text. Ex-> <strong> 
+-->
+
+<!--
+  block element can be converted into inline-block (& vice-versa)
+-->
